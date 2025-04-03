@@ -5,8 +5,8 @@
 | NAME             |
 | ---------------- |
 | DƯƠNG MINH HIẾU  |
-| NGUYỄN NGỌC HÀ MY |
 | TRỊNH THỊ MỸ LỆ   |
+| NGUYỄN NGỌC HÀ MY |
 
 ## Vai trò
 

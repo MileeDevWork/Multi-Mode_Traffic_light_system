@@ -1,0 +1,6 @@
+fsm_adjust.c:12:6:showok	8	static
+fsm_adjust.c:16:6:showerror	8	static
+fsm_adjust.c:20:6:error_led	8	static
+fsm_adjust.c:23:6:no_error_led	8	static
+fsm_adjust.c:28:6:fsm_adjust	8	static
+fsm_adjust.c:90:6:show3	8	static

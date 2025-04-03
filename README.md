@@ -88,6 +88,6 @@ Sau khi nhấn **Button0**, hệ thống sẽ vào chế độ chọn **MODE** v
 
 
 ## Video demo
-*[Video demo điều khiển với thiết bị ngoại vi](https://youtu.be/jcW3GdaoJic)
+*[Video demo điều khiển với thiết bị ngoại vi](https://youtu.be/odKU5fkUsm8)
 
-*[Video demo điều khiển với web](https://youtube.com/shorts/wwV2PDG51xg)
+*[Video demo điều khiển với web](https://youtube.com/shorts/sQ_EOwe9A74?feature=share)

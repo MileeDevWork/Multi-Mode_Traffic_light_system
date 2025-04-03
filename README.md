@@ -1,5 +1,20 @@
 # Multi-Mode Traffic Light System
 
+## Thành viên nhóm
+
+| NAME             |
+| ---------------- |
+| DƯƠNG MINH HIẾU  |
+| NGUYỄN NGỌC HÀ MY |
+| TRỊNH THỊ MỸ LỆ   |
+
+## Vai trò
+
+Trong dự án này, tôi đảm nhận vai trò:
+
+* Phát triển chế độ ban đêm cho hệ thống đèn giao thông.
+* Thiết kế và hiện thực giao diện web với ESP32, cho phép người dùng điều khiển hệ thống đèn giao thông qua trình duyệt web, thay thế cho các nút bấm vật lý truyền thống.
+
 ## Mô tả đề tài
 
 Dự án “Multi-Mode Traffic Light System” sử dụng vi điều khiển STM32 và ESP32 được xây dựng nhằm cung cấp một giải pháp điều tiết giao thông linh hoạt và hiệu quả, có khả năng thích ứng với nhiều tình huống giao thông khác nhau. Hệ thống được thiết kế với bốn chế độ hoạt động chính:
@@ -66,20 +81,6 @@ Sau khi nhấn **Button0**, hệ thống sẽ vào chế độ chọn **MODE** v
             * Hiện lcd dòng 2: `Green Vert, Red Hor`
         * Ấn nhiều hơn thì lặp lại.
 
-## Thành viên nhóm
-
-| NAME             |
-| ---------------- |
-| DƯƠNG MINH HIẾU  |
-| NGUYỄN NGỌC HÀ MY |
-| TRỊNH THỊ MỸ LỆ   |
-
-## Vai trò
-
-Trong dự án này, tôi đảm nhận vai trò:
-
-* Phát triển chế độ ban đêm cho hệ thống đèn giao thông.
-* Thiết kế và hiện thực giao diện web với ESP32, cho phép người dùng điều khiển hệ thống đèn giao thông qua trình duyệt web, thay thế cho các nút bấm vật lý truyền thống.
 
 ## Lưu đồ trạng thái (FSM)
 
@@ -88,4 +89,5 @@ Trong dự án này, tôi đảm nhận vai trò:
 
 ## Video demo
 *[Video demo điều khiển với thiết bị ngoại vi](https://youtu.be/jcW3GdaoJic)
+
 *[Video demo điều khiển với web](https://youtube.com/shorts/wwV2PDG51xg)
